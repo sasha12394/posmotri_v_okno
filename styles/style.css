@@ -152,6 +152,7 @@ ol {
   padding: 6px 0;
   text-align: center;
   width: 100%;
+  font-family: inherit;
 }
 
 .search-form__submit-button {
